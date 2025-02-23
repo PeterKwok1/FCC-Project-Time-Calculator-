@@ -1,6 +1,7 @@
 
 # Time Calculator
 
+## Description
 Calculates time from starting point with optional day of the week. 
 
 ```
@@ -23,8 +24,5 @@ add_time('6:30 PM', '205:12')
 # Returns: 7:42 AM (9 days later)
 ```
 
-For the purpose of reviewing python to follow coursework. 
-
-
-
-
+## Purpose 
+To review python to follow CSE 312. 
